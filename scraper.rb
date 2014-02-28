@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'mechanize'
 
 # see https://gist.github.com/mlandauer/5182346
